@@ -1,1 +1,0 @@
-# newguard.github.io

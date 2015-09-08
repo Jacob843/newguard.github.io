@@ -123,9 +123,24 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ("/archive.html", "Archives"),
-        ("/categories/index.html", "Tags"),
-        ("/rss.xml", "RSS feed"),
+        (
+            (
+                ("/archive.html", "Archives"),
+                ("/categories/index.html", "Tags"),
+                ("/rss.xml", "RSS feed"),
+            ),
+            'Blog'
+        ),
+        ("/faq", "FAQ"),
+    ),
+}
+
+NAVIGATION_LINKS = {
+    DEFAULT_LANG: (
+        ('/history-and-mission/', 'History'),
+        ('/blog/', 'Blog'),
+        ('/faq/', 'FAQ'),
+        ('/helping-out/', 'Helping Out'),
     ),
 }
 

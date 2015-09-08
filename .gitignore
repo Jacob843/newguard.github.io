@@ -1,4 +1,6 @@
 cache/
+__pycache__/
+*.bak
 conf.pyc
-.doit.db
+*.doit.db.*
 output/

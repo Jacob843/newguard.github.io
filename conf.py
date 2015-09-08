@@ -347,7 +347,7 @@ HIDDEN_CATEGORIES = []
 
 # Final location for the main blog page and sibling paginated pages is
 # output / TRANSLATION[lang] / INDEX_PATH / index-*.html
-# INDEX_PATH = ""
+INDEX_PATH = "blog"
 
 # Create per-month archives instead of per-year
 # CREATE_MONTHLY_ARCHIVE = False
@@ -386,7 +386,7 @@ HIDDEN_CATEGORIES = []
 
 # Slug the Tag URL easier for users to type, special characters are
 # often removed or replaced as well.
-# SLUG_TAG_PATH = True
+SLUG_TAG_PATH = True
 
 # A list of redirection tuples, [("foo/from.html", "/bar/to.html")].
 #

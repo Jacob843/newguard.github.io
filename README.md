@@ -5,3 +5,5 @@ This is the repo for the New Guard website.  All the action happens in the
 
 If you'd like to contribute, please throw a pull request at us, or contact
 edunham or HedgeMage in #newguard on irc.freenode.net.
+
+Reminder for owners: deploy command is `nikola github_deploy`.

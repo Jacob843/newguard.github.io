@@ -44,4 +44,4 @@ You are highly encouraged to read [this comprehensive IRC tutorial and command l
 ## Funding and Contacting Us ##
 ----------
 
-New Guard is an [Internet Civil Engineer Institute](http://icei.org) (ICEI) initiative. We rely on your funding to teach today's youth about infrastructure. We are working towards face-to-face meetups, where less-experienced members can interact with senior architects to further their education. Susan Sons (aka Hedgemage) is responsible for all donations. We urge you to contact her at [donations@icei.org](mailto:donations@icei.org) for more information. Any little bit will help us achieve our goal.
+New Guard is an [Internet Civil Engineering Institute](http://icei.org) (ICEI) initiative. We rely on your funding to teach today's youth about infrastructure. We are working towards face-to-face meetups, where less-experienced members can interact with senior architects to further their education. Susan Sons (aka Hedgemage) is responsible for all donations. We urge you to contact her at [donations@icei.org](mailto:donations@icei.org) for more information. Any little bit will help us achieve our goal.
